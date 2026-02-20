@@ -1,0 +1,108 @@
+Incidence Rate Report for Louisiana by Parish
+
+"All Cancer Sites (All Stages^), 2018-2022"
+
+"All Races (includes Hispanic), Both Sexes, Ages <65"
+
+Sorted by Rate
+
+Parish,FIPS,2023 Rural-Urban Continuum Codes([rural urban note]),"Age-Adjusted Incidence Rate([rate note]) - cases per 100,000","Lower 95% Confidence Interval","Upper 95% Confidence Interval","CI*Rank([rank note])","Lower CI (CI*Rank)","Upper CI (CI*Rank)",Average Annual Count,Recent Trend,"Recent 5-Year Trend ([trend note]) in Incidence Rates","Lower 95% Confidence Interval","Upper 95% Confidence Interval"
+"Louisiana(7)",22000,N/A,252.6 ,250.5, 254.7,N/A , N/A , N/A,11885,stable,-0.8 ,-1.7, 0.3
+"US (SEER+NPCR)(1)",00000,N/A,223.5 ,223.3, 223.8,N/A , N/A , N/A,753674,falling,-0.2 ,-0.3, -0.1
+"Cameron Parish(7)",22023,Urban,325.2 ,259.1, 404.1,1 , 1 , 62,20,stable,1.0 ,-1.1, 3.1
+"Iberville Parish(7)",22047,Urban,318 ,290.2, 348,2 , 1 , 21,105,rising,1.4 ,0.5, 2.4
+"Claiborne Parish(7)",22027,Rural,309.4 ,269.5, 354,3 , 1 , 47,48,stable,0.8 ,-0.7, 2.4
+"Red River Parish(7)",22081,Rural,298.9 ,246.8, 359.6,4 , 1 , 62,26,rising,2.0 ,0.2, 3.9
+"Franklin Parish(7)",22041,Rural,293.3 ,258.5, 331.5,5 , 1 , 54,58,rising,1.4 ,0.3, 2.5
+"Evangeline Parish(7)",22039,Rural,290.3 ,263.8, 318.9,6 , 1 , 43,96,rising,1.6 ,0.6, 2.6
+"Union Parish(7)",22111,Urban,289.9 ,256.6, 326.5,7 , 1 , 53,65,stable,1.6 ,-0.2, 3.6
+"Bienville Parish(7)",22013,Rural,289.4 ,248.2, 335.8,8 , 1 , 61,41,stable,0.4 ,-1.3, 2.1
+"St. Landry Parish(7)",22097,Rural,287.3 ,270.3, 305.1,9 , 2 , 31,239,falling,-5.9 ,-10.1, -0.7
+"Washington Parish(7)",22117,Rural,286.9 ,264.4, 310.7,10 , 1 , 42,135,stable,0.3 ,-0.5, 1.2
+"Tensas Parish(7)",22107,Rural,286.6 ,211.8, 381,11 , 1 , 64,12,stable,0.8 ,-2.1, 3.5
+"Natchitoches Parish(7)",22069,Rural,284.8 ,258.6, 312.9,12 , 1 , 49,95,rising,1.5 ,0.8, 2.3
+"Acadia Parish(7)",22001,Urban,284.8 ,264.9, 305.8,13 , 2 , 39,168,rising,1.1 ,0.5, 1.7
+"West Feliciana Parish(7)",22125,Urban,283.4 ,250.5, 320.4,14 , 1 , 60,54,rising,1.6 ,0.5, 2.9
+"Jackson Parish(7)",22049,Rural,282.7 ,244.7, 325.4,15 , 1 , 62,44,stable,1.1 ,-0.2, 2.6
+"St. Martin Parish(7)",22099,Urban,277.1 ,257.1, 298.3,16 , 3 , 47,158,rising,1.3 ,0.4, 2.4
+"Pointe Coupee Parish(7)",22077,Urban,277 ,244.6, 312.7,17 , 1 , 61,64,stable,0.7 ,-0.2, 1.7
+"Vermilion Parish(7)",22113,Urban,276.9 ,257.6, 297.4,18 , 3 , 46,167,stable,0.5 ,-0.3, 1.5
+"Morehouse Parish(7)",22067,Urban,273.2 ,244.3, 304.8,19 , 2 , 60,72,rising,1.3 ,0.2, 2.5
+"Assumption Parish(7)",22007,Urban,272.5 ,241.7, 306.5,20 , 2 , 62,64,stable,0.2 ,-1.0, 1.5
+"Livingston Parish(7)",22063,Urban,268.8 ,256.6, 281.5,21 , 9 , 43,379,stable,0.4 ,-0.1, 1.0
+"Richland Parish(7)",22083,Urban,268.7 ,236.2, 304.7,22 , 1 , 62,55,stable,0.4 ,-0.6, 1.6
+"De Soto Parish(7)",22031,Urban,268.1 ,240.6, 298.2,23 , 3 , 61,76,stable,0.3 ,-0.8, 1.5
+"St. Mary Parish(7)",22101,Rural,267.5 ,247, 289.3,24 , 5 , 57,145,stable,0.4 ,-0.3, 1.2
+"Allen Parish(7)",22003,Rural,266.5 ,237, 298.8,25 , 2 , 62,62,rising,1.7 ,0.8, 2.7
+"West Baton Rouge Parish(7)",22121,Urban,264.8 ,237.6, 294.4,26 , 3 , 62,76,stable,0.2 ,-0.6, 1.1
+"East Carroll Parish(7)",22035,Rural,263.4 ,212.8, 323.2,27 , 1 , 64,20,stable,1.2 ,-0.7, 3.3
+"East Feliciana Parish(7)",22037,Urban,262 ,231.9, 295.4,28 , 3 , 63,62,stable,-0.7 ,-4.0, 0.8
+"Beauregard Parish(7)",22011,Rural,261.6 ,238, 287,29 , 5 , 61,97,rising,0.9 ,0.3, 1.7
+"St. James Parish(7)",22093,Urban,261.5 ,229.6, 296.8,30 , 3 , 64,56,rising,1.8 ,0.7, 3.1
+"Sabine Parish(7)",22085,Rural,261 ,229.9, 295.4,31 , 3 , 64,57,stable,0.2 ,-1.1, 1.6
+"Avoyelles Parish(7)",22009,Rural,260.6 ,237.8, 285.1,32 , 5 , 62,104,stable,0.5 ,-0.3, 1.3
+"Caddo Parish(7)",22017,Urban,258.7 ,249.3, 268.5,33 , 17 , 50,624,stable,-2.2 ,-4.7, 0.5
+"West Carroll Parish(7)",22123,Rural,258.4 ,214.2, 309.6,34 , 1 , 64,27,stable,0.6 ,-1.2, 2.4
+"St. Tammany Parish(7)",22103,Urban,258.2 ,249.5, 267.3,35 , 19 , 49,718,rising,0.7 ,0.3, 1.3
+"La Salle Parish(7)",22059,Rural,257.4 ,221.3, 297.9,36 , 3 , 64,38,stable,0.4 ,-0.8, 1.8
+"Winn Parish(7)",22127,Rural,257.1 ,220.5, 298.6,37 , 2 , 64,38,stable,0.0 ,-2.0, 2.0
+"Ascension Parish(7)",22005,Urban,256.1 ,243.5, 269.3,38 , 17 , 56,319,stable,0.2 ,-0.2, 0.8
+"St. Bernard Parish(7)",22087,Urban,255.8 ,234.4, 278.6,39 , 8 , 62,113,stable,0.3 ,-0.4, 1.1
+"Tangipahoa Parish(7)",22105,Urban,254.6 ,242.1, 267.6,40 , 18 , 58,334,stable,0.4 ,-0.1, 0.9
+"Rapides Parish(7)",22079,Urban,254.4 ,241.7, 267.6,41 , 18 , 58,329,stable,0.5 ,-0.1, 1.2
+"Grant Parish(7)",22043,Urban,253.2 ,223.8, 285.6,42 , 5 , 64,56,stable,0.8 ,-0.1, 1.9
+"Catahoula Parish(7)",22025,Rural,253.1 ,208.2, 305.4,43 , 1 , 64,25,stable,1.4 ,-0.4, 3.3
+"St. Charles Parish(7)",22089,Urban,249.4 ,230.8, 269.2,44 , 14 , 63,146,stable,0.4 ,-0.2, 1.1
+"Iberia Parish(7)",22045,Rural,248.9 ,232.3, 266.5,45 , 17 , 62,187,stable,0.1 ,-0.6, 0.9
+"Jefferson Parish(7)",22051,Urban,247.8 ,241.1, 254.7,46 , 31 , 56,1136,rising,0.5 ,0.1, 0.8
+"Webster Parish(7)",22119,Rural,247.6 ,225, 271.9,47 , 12 , 64,100,stable,-0.3 ,-1.2, 0.6
+"East Baton Rouge Parish(7)",22033,Urban,246.9 ,239.9, 254,48 , 31 , 57,1039,stable,0.3 ,-0.1, 0.7
+"Plaquemines Parish(7)",22075,Urban,245.5 ,217.8, 276,49 , 9 , 64,60,stable,0.0 ,-1.1, 1.2
+"Vernon Parish(7)",22115,Rural,244.2 ,222.5, 267.4,50 , 14 , 64,98,stable,-3.2 ,-11.9, 0.7
+"Bossier Parish(7)",22015,Urban,243.9 ,231.3, 256.9,51 , 27 , 62,300,stable,0.2 ,-0.3, 0.9
+"Lafayette Parish(7)",22055,Urban,242.6 ,233.6, 251.8,52 , 32 , 62,590,stable,0.3 ,0.0, 0.7
+"Ouachita Parish(7)",22073,Urban,242 ,230.8, 253.7,53 , 30 , 62,375,stable,0.0 ,-0.5, 0.6
+"Jefferson Davis Parish(7)",22053,Urban,241.9 ,217.3, 268.6,54 , 13 , 64,79,stable,0.1 ,-0.9, 1.2
+"Caldwell Parish(7)",22021,Rural,241 ,199.1, 289.6,55 , 3 , 64,25,stable,0.2 ,-1.3, 1.8
+"LaFourche Parish(7)",22057,Urban,240.6 ,226.8, 255.1,56 , 27 , 63,248,stable,0.6 ,-0.1, 1.4
+"Calcasieu Parish(7)",22019,Urban,236.8 ,227.2, 246.7,57 , 39 , 63,500,stable,-0.2 ,-0.8, 0.4
+"Concordia Parish(7)",22029,Rural,236.6 ,205, 271.8,58 , 9 , 64,45,stable,-1.3 ,-5.8, 0.8
+"St. Helena Parish(7)",22091,Urban,236.1 ,196, 282.7,59 , 5 , 64,27,stable,1.3 ,-0.4, 3.2
+"Orleans Parish(7)",22071,Urban,233.2 ,226.2, 240.4,60 , 47 , 63,914,stable,-0.4 ,-1.4, 0.0
+"Terrebonne Parish(7)",22109,Urban,232.1 ,219.2, 245.5,61 , 39 , 64,265,stable,-2.8 ,-7.0, 0.3
+"Madison Parish(7)",22065,Rural,231.6 ,189, 281.2,62 , 5 , 64,22,stable,-0.1 ,-4.5, 1.6
+"St. John the Baptist Parish(7)",22095,Urban,231.4 ,211.2, 253.2,63 , 28 , 64,107,stable,0.0 ,-0.6, 0.8
+"Lincoln Parish(7)",22061,Rural,214.3 ,192.9, 237.3,64 , 42 , 64,80,stable,-0.2 ,-4.2, 0.6
+
+
+Notes:
+
+Created by statecancerprofiles.cancer.gov on 02/20/2026 3:42 am.
+
+"State Cancer Registries [ https://www.cdc.gov/national-program-cancer-registries/contact/index.html ] may provide more current or more local data."
+
+"
+
+Trend
+   Rising when 95% confidence interval of average annual percent change is above 0.
+   Stable when 95% confidence interval of average annual percent change includes 0.
+   Falling when 95% confidence interval of average annual percent change is below 0.
+"
+
+"[rate note] Incidence rates (cases per 100,000 population per year) are age-adjusted to the 2000 US standard population [ http://www.seer.cancer.gov/stdpopulations/ ] (SEER areas use 20 age groups and NPCR areas use 19 age groups). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Rates calculated using SEER*Stat [ https://seer.cancer.gov/seerstat/ ]. Population counts for denominators are based on Census populations as modified [https://seer.cancer.gov/popdata/] by NCI. The US Population Data File [https://seer.cancer.gov/popdata/] is used for SEER and NPCR incidence rates."
+
+"[recent trend note] Incidence data come from different sources. The Average Annual Percent Change (AAPC) is based on the APCs calculated by Joinpoint [ https://surveillance.cancer.gov/joinpoint/ ]. Due to data availability issues, the time period used in the calculation of the joinpoint regression model may differ [ https://statecancerprofiles.cancer.gov/historicaltrend/differences.html ] for selected counties."
+
+"Rates and trends are computed using different standards for malignancy. For more information see malignant.html."
+
+"[stage note] All Stages refers to any stage. Due to changes in stage coding, Combined Summary Stage with Expanded Regional Codes (2004+) is used for data from Surveillance, Epidemiology, and End Results (SEER) databases and Merged Summary Stage is used for data from National Program of Cancer Registries [ https://www.cdc.gov/cancer/npcr/index.htm ] databases. Due to the increased complexity with staging, other staging variables maybe used if necessary."
+
+"[rank note] Results presented with the CI*Rank statistics help show the usefulness of ranks. For example, ranks for relatively rare diseases or less populated areas may be essentially meaningless because of their large variability, but ranks for more common diseases in densely populated regions can be very useful. The rates used in CI*Rank are all age-adjusted to the 2000 US standard population using 19 age groups for SEER and NPCR areas. More information about methodology can be found on the CI*Rank website [ https://surveillance.cancer.gov/cirank/ ]."
+
+"[rural urban note] Rural–urban county classifications are based on the 2023 USDA Rural–Urban Continuum Codes [ https://www.ers.usda.gov/data-products/rural-urban-continuum-codes/ ] (except for Connecticut Counties which use 2013 codes). State-level cancer rates for rural areas are calculated using cancer cases registered exclusively in rural counties, while state-level cancer rates for urban areas are calculated using cases registered exclusively in urban counties."
+
+"(1) Source: National Program of Cancer Registries [ https://www.cdc.gov/cancer/npcr/index.htm ] and Surveillance, Epidemiology, and End Results [ http://seer.cancer.gov ] SEER*Stat Database - United States Department of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute. Based on the 2024 submission."
+
+"(7) Source: SEER [ http://seer.cancer.gov ] November 2024 submission."
+
+"Data for United States does not include Puerto Rico."
