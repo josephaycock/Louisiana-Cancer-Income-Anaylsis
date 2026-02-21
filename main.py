@@ -13,4 +13,5 @@ print("\nParish List\n------------------------------------------")
 for i, parish in enumerate(cancer["Parish"], start=1):
     print(f"{i}. {parish}")
 
-#
+# Saving raw csv (cancer-rates.csv) into processed csv (processed-cancer-rates.csv)
+cancer.to_csv('data/processed/processed-cancer-rates.csv', index=False)
