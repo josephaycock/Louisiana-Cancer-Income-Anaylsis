@@ -15,7 +15,9 @@ def clean_cancer_data(file_path):
             header_row = i
             break
 
-    # Removing non-parish rows
-
     cancer = pd.read_csv(file_path, skiprows=header_row, engine='python')
+
+    # Removing non-parish rows
+    cancer = cancer[cancer["Parish"].str.contains("Parish", na=False)]
+
     return cancer
