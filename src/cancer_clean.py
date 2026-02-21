@@ -1,5 +1,4 @@
 # Cleans the cancer-rates.csv to only parish and cancer rates
-
 import pandas as pd
 
 def clean_cancer_data(file_path):
