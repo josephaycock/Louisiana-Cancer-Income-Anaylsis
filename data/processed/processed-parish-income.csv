@@ -1,65 +1,65 @@
-Parish,median_income
-Acadia,44977
-Allen,52755
-Ascension,93800
-Assumption,47023
-Avoyelles,38696
-Beauregard,68525
-Bienville,34268
-Bossier,64598
-Caddo,47572
-Calcasieu,64370
-Caldwell,45707
-Cameron,69847
-Catahoula,48259
-Claiborne,32034
-Concordia,38929
-De Soto,49807
-East Baton Rouge,62083
-East Carroll,30856
-East Feliciana,64709
-Evangeline,34526
-Franklin,41129
-Grant,57362
-Iberia,55190
-Iberville,59410
-Jackson,40406
-Jefferson,63257
-Jefferson Davis,52470
-Lafayette,66617
-Lafourche,61381
-LaSalle,59926
-Lincoln,37001
-Livingston,77978
-Madison,34508
-Morehouse,37875
-Natchitoches,41310
-Orleans,51116
-Ouachita,49261
-Plaquemines,77996
-Pointe Coupee,53045
-Rapides,55407
-Red River,43821
-Richland,48125
-Sabine,40777
-St. Bernard,55857
-St. Charles,79191
-St. Helena,46402
-St. James,62946
-St. John the Baptist,65114
-St. Landry,44478
-St. Martin,50806
-St. Mary,47322
-St. Tammany,76914
-Tangipahoa,55274
-Tensas,35653
-Terrebonne,63088
-Union,47068
-Vermilion,56194
-Vernon,56547
-Washington,41803
-Webster,34263
-West Baton Rouge,80510
-West Carroll,45035
-West Feliciana,71985
-Winn,44922
+Parish,median_income,merge_key
+Acadia,44977,acadia
+Allen,52755,allen
+Ascension,93800,ascension
+Assumption,47023,assumption
+Avoyelles,38696,avoyelles
+Beauregard,68525,beauregard
+Bienville,34268,bienville
+Bossier,64598,bossier
+Caddo,47572,caddo
+Calcasieu,64370,calcasieu
+Caldwell,45707,caldwell
+Cameron,69847,cameron
+Catahoula,48259,catahoula
+Claiborne,32034,claiborne
+Concordia,38929,concordia
+De Soto,49807,desoto
+East Baton Rouge,62083,eastbatonrouge
+East Carroll,30856,eastcarroll
+East Feliciana,64709,eastfeliciana
+Evangeline,34526,evangeline
+Franklin,41129,franklin
+Grant,57362,grant
+Iberia,55190,iberia
+Iberville,59410,iberville
+Jackson,40406,jackson
+Jefferson,63257,jefferson
+Jefferson Davis,52470,jeffersondavis
+Lafayette,66617,lafayette
+Lafourche,61381,lafourche
+LaSalle,59926,lasalle
+Lincoln,37001,lincoln
+Livingston,77978,livingston
+Madison,34508,madison
+Morehouse,37875,morehouse
+Natchitoches,41310,natchitoches
+Orleans,51116,orleans
+Ouachita,49261,ouachita
+Plaquemines,77996,plaquemines
+Pointe Coupee,53045,pointecoupee
+Rapides,55407,rapides
+Red River,43821,redriver
+Richland,48125,richland
+Sabine,40777,sabine
+St. Bernard,55857,st.bernard
+St. Charles,79191,st.charles
+St. Helena,46402,st.helena
+St. James,62946,st.james
+St. John the Baptist,65114,st.johnthebaptist
+St. Landry,44478,st.landry
+St. Martin,50806,st.martin
+St. Mary,47322,st.mary
+St. Tammany,76914,st.tammany
+Tangipahoa,55274,tangipahoa
+Tensas,35653,tensas
+Terrebonne,63088,terrebonne
+Union,47068,union
+Vermilion,56194,vermilion
+Vernon,56547,vernon
+Washington,41803,washington
+Webster,34263,webster
+West Baton Rouge,80510,westbatonrouge
+West Carroll,45035,westcarroll
+West Feliciana,71985,westfeliciana
+Winn,44922,winn

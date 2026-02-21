@@ -1,10 +1,23 @@
 from src.cancer_clean import clean_cancer_data
 from src.income_clean import income_clean_data
+from src.merge_clean import datasets_merge
 
 cancer = clean_cancer_data("data/raw/cancer-rates.csv")
 income = income_clean_data("data/raw/parish-income.csv")
 
-# Prints for cancer_clean.py (for testing)
+merge_csv = datasets_merge(cancer, income)
+
+# Saving raw csv (cancer-rates.csv) into processed csv (processed-cancer-rates.csv)
+cancer.to_csv('data/processed/processed-cancer-rates.csv', index=False)
+
+# Saving raw csv (parish-income.csv) into processed csv (processed-parish-income.csv)
+income.to_csv('data/processed/processed-parish-income.csv', index=False)
+
+# Saving final_merge_csv into processed csv (merge-clean.csv)
+merge_csv.to_csv('data/processed/merged-clean.csv', index=False)
+
+# --------- For debugging ---------
+# Prints for cancer_clean.py
 print("Cancer Header\n------------------------------------------")
 print(cancer.head())
 
@@ -18,7 +31,7 @@ print("\nParish List\n------------------------------------------")
 for i, parish in enumerate(cancer["Parish"], start=1):
     print(f"{i}. {parish}")
 
-# Prints for income_clean.py (for testing)
+# Prints for income_clean.py
 print("\nIncome Header\n------------------------------------------")
 print(income.head())
 
@@ -32,8 +45,16 @@ print("\nIncome List\n------------------------------------------")
 for i, row in enumerate(income.itertuples(), start=1):
     print(f"{i}. {row.Parish} - {row.median_income}")
 
-# Saving raw csv (cancer-rates.csv) into processed csv (processed-cancer-rates.csv)
-cancer.to_csv('data/processed/processed-cancer-rates.csv', index=False)
+# Prints for final_merge_csv
+print("\nMerge Header\n------------------------------------------")
+print(merge_csv.head())
 
-# Saving raw csv (parish-income.csv) into processed csv (processed-parish-income.csv)
-income.to_csv('data/processed/processed-parish-income.csv', index=False)
+print("\nMerge Header (Types)\n------------------------------------------")
+print(merge_csv.dtypes)
+
+print("\nTotal Merge\n------------------------------------------")
+print(len(merge_csv))
+
+print("\nMerge List\n------------------------------------------")
+for i, row in enumerate(merge_csv.itertuples(), start=1):
+    print(f"{i}. {row.Parish} - {row.cancer_rate} - {row.median_income}")

@@ -1,65 +1,65 @@
-Parish,cancer_rate
-Cameron,325.2
-Iberville,318.0
-Claiborne,309.4
-Red River,298.9
-Franklin,293.3
-Evangeline,290.3
-Union,289.9
-Bienville,289.4
-St. Landry,287.3
-Washington,286.9
-Tensas,286.6
-Natchitoches,284.8
-Acadia,284.8
-West Feliciana,283.4
-Jackson,282.7
-St. Martin,277.1
-Pointe Coupee,277.0
-Vermilion,276.9
-Morehouse,273.2
-Assumption,272.5
-Livingston,268.8
-Richland,268.7
-De Soto,268.1
-St. Mary,267.5
-Allen,266.5
-West Baton Rouge,264.8
-East Carroll,263.4
-East Feliciana,262.0
-Beauregard,261.6
-St. James,261.5
-Sabine,261.0
-Avoyelles,260.6
-Caddo,258.7
-West Carroll,258.4
-St. Tammany,258.2
-La Salle,257.4
-Winn,257.1
-Ascension,256.1
-St. Bernard,255.8
-Tangipahoa,254.6
-Rapides,254.4
-Grant,253.2
-Catahoula,253.1
-St. Charles,249.4
-Iberia,248.9
-Jefferson,247.8
-Webster,247.6
-East Baton Rouge,246.9
-Plaquemines,245.5
-Vernon,244.2
-Bossier,243.9
-Lafayette,242.6
-Ouachita,242.0
-Jefferson Davis,241.9
-Caldwell,241.0
-LaFourche,240.6
-Calcasieu,236.8
-Concordia,236.6
-St. Helena,236.1
-Orleans,233.2
-Terrebonne,232.1
-Madison,231.6
-St. John the Baptist,231.4
-Lincoln,214.3
+Parish,cancer_rate,merge_key
+Cameron,325.2,cameron
+Iberville,318.0,iberville
+Claiborne,309.4,claiborne
+Red River,298.9,redriver
+Franklin,293.3,franklin
+Evangeline,290.3,evangeline
+Union,289.9,union
+Bienville,289.4,bienville
+St. Landry,287.3,st.landry
+Washington,286.9,washington
+Tensas,286.6,tensas
+Natchitoches,284.8,natchitoches
+Acadia,284.8,acadia
+West Feliciana,283.4,westfeliciana
+Jackson,282.7,jackson
+St. Martin,277.1,st.martin
+Pointe Coupee,277.0,pointecoupee
+Vermilion,276.9,vermilion
+Morehouse,273.2,morehouse
+Assumption,272.5,assumption
+Livingston,268.8,livingston
+Richland,268.7,richland
+De Soto,268.1,desoto
+St. Mary,267.5,st.mary
+Allen,266.5,allen
+West Baton Rouge,264.8,westbatonrouge
+East Carroll,263.4,eastcarroll
+East Feliciana,262.0,eastfeliciana
+Beauregard,261.6,beauregard
+St. James,261.5,st.james
+Sabine,261.0,sabine
+Avoyelles,260.6,avoyelles
+Caddo,258.7,caddo
+West Carroll,258.4,westcarroll
+St. Tammany,258.2,st.tammany
+La Salle,257.4,lasalle
+Winn,257.1,winn
+Ascension,256.1,ascension
+St. Bernard,255.8,st.bernard
+Tangipahoa,254.6,tangipahoa
+Rapides,254.4,rapides
+Grant,253.2,grant
+Catahoula,253.1,catahoula
+St. Charles,249.4,st.charles
+Iberia,248.9,iberia
+Jefferson,247.8,jefferson
+Webster,247.6,webster
+East Baton Rouge,246.9,eastbatonrouge
+Plaquemines,245.5,plaquemines
+Vernon,244.2,vernon
+Bossier,243.9,bossier
+Lafayette,242.6,lafayette
+Ouachita,242.0,ouachita
+Jefferson Davis,241.9,jeffersondavis
+Caldwell,241.0,caldwell
+LaFourche,240.6,lafourche
+Calcasieu,236.8,calcasieu
+Concordia,236.6,concordia
+St. Helena,236.1,st.helena
+Orleans,233.2,orleans
+Terrebonne,232.1,terrebonne
+Madison,231.6,madison
+St. John the Baptist,231.4,st.johnthebaptist
+Lincoln,214.3,lincoln
