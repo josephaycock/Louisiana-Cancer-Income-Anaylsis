@@ -28,4 +28,17 @@ def clean_cancer_data(file_path):
         .str.strip()
     )
 
+    # Renaming 'Age-Adjusted Incidence Rate([rate note]) - cases per 100,000' to 'cancer_rates'
+    cancer = cancer.rename(
+        columns={
+            'Age-Adjusted Incidence Rate([rate note]) - cases per 100,000': 'cancer_rate'
+        }
+    )
+
+    # Removing non-cancer raters columns
+    cancer = cancer.loc[:, cancer.columns.intersection([
+        'Parish',
+        'cancer_rate'
+    ])]
+
     return cancer
