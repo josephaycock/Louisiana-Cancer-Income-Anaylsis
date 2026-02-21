@@ -17,7 +17,15 @@ def clean_cancer_data(file_path):
 
     cancer = pd.read_csv(file_path, skiprows=header_row, engine='python')
 
-    # Removing non-parish rows
+    # Filtering non-parish rows
     cancer = cancer[cancer["Parish"].str.contains("Parish", na=False)]
+
+    # Removing parish and (7)
+    cancer["Parish"] = (
+        cancer["Parish"]
+        .str.replace(" Parish", "", regex=False)
+        .str.replace(r"\(\d+\)","", regex=True)
+        .str.strip()
+    )
 
     return cancer
