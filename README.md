@@ -49,3 +49,11 @@ pip install -r requirements.txt
 ### Conclusion
 - The study investigates where the median household income in Louisiana parishes is associated with cancer incidence rates. The results suggest that there is a weak negative correlation relationship (r ≈ -0.18), meaning higher house income tend to have lower cancer rates. However, income only explains a very small amount (\$R^2\$) of the overall variation in cancer incidence.
 - The geospatial maps reveal noticeable regional clustering, and the residual analysis shows that some Louisiana parishes experience a higher than expected cancer rate even after accounting for median income. This suggests that there are additional factors such as environmental, structural, and demographic factors that likely contribute to cancer disparities across the state. Future studies will be incorporating multiple varaibles that would provide a more complete understanding of these patterns.
+### Data Sources
+
+- Louisiana Cancer Incidence Rates (2018-2022)
+    - https://statecancerprofiles.cancer.gov/incidencerates/index.php?statefips=22&areatype=county&cancer=001&race=00&sex=0&age=001&ruralurban=0&type=incd#results
+- S1901 | Income in the Past 12 Months (in 2022 Inflation-Adjusted Dollars)
+    - https://data.census.gov/table/ACSST5Y2022.S1901?q=Median+household+income+Louisiana+parish+ACS+5-year&g=040XX00US22$0500000&y=2022&moe=false&tp=false&tableFilters=ag-Grid-AutoColumn~(Margin+of+Errorundefined)
+- Louisiana Parish Shapefile
+    - https://virtual.la.gov/datasets/louisiana-parishes/explore?location=30.936899%2C-91.400771%2C7
